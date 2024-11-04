@@ -365,7 +365,7 @@ Register Number: 212222240089
 ### Loss, Accuracy Vs Iteration Plot
 ![image](https://github.com/user-attachments/assets/bb05a81b-5b7d-4967-a199-ddbcf8c160c1)
 
-![image](https://github.com/user-attachments/assets/8900fee6-aced-44ad-ba72-8f362496817a)
+![image](https://github.com/user-attachments/assets/0c98f1e0-9e81-42dd-9016-0f211b98abf9)
 
 ## RESULT:
 Thus the program to create a classifier using specialized layers for text data such as Embedding and GlobalAveragePooling1D is implemented successfully.
